@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.AssemblyInfo.cs
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\bin\Debug\net10.0\packageExpress.exe
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\bin\Debug\net10.0\packageExpress.deps.json
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\bin\Debug\net10.0\packageExpress.runtimeconfig.json
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\bin\Debug\net10.0\packageExpress.dll
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\bin\Debug\net10.0\packageExpress.pdb
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.dll
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\refint\packageExpress.dll
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.pdb
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageExpress.genruntimeconfig.cache
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\ref\packageExpress.dll
+C:\Users\Dell\Downloads\C# Project\packageExpress\packageExpress\obj\Debug\net10.0\packageE.0BF90051.Up2Date
