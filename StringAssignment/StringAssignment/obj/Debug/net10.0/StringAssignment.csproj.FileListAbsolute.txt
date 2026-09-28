@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\bin\Debug\net10.0\StringAssignment.exe
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\bin\Debug\net10.0\StringAssignment.deps.json
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\bin\Debug\net10.0\StringAssignment.runtimeconfig.json
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\bin\Debug\net10.0\StringAssignment.dll
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\bin\Debug\net10.0\StringAssignment.pdb
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.AssemblyInfo.cs
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.dll
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\refint\StringAssignment.dll
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.pdb
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAssignment.genruntimeconfig.cache
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\ref\StringAssignment.dll
+C:\Users\Dell\Downloads\C# Project\StringAssignment\StringAssignment\obj\Debug\net10.0\StringAs.0CCC151A.Up2Date

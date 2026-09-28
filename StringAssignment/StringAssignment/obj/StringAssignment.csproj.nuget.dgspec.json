@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\packageExpress\\packageExpress\\packageExpress.csproj": {}
+    "C:\\Users\\Dell\\Downloads\\C# Project\\StringAssignment\\StringAssignment\\StringAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\packageExpress\\packageExpress\\packageExpress.csproj": {
+    "C:\\Users\\Dell\\Downloads\\C# Project\\StringAssignment\\StringAssignment\\StringAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\packageExpress\\packageExpress\\packageExpress.csproj",
-        "projectName": "packageExpress",
-        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\packageExpress\\packageExpress\\packageExpress.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\C# Project\\StringAssignment\\StringAssignment\\StringAssignment.csproj",
+        "projectName": "StringAssignment",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\C# Project\\StringAssignment\\StringAssignment\\StringAssignment.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\packageExpress\\packageExpress\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\C# Project\\StringAssignment\\StringAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
